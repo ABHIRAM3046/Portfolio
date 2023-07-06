@@ -7,8 +7,12 @@ body{
         115deg,
         rgba(243, 243, 250, 0.8),
         rgba(67, 120, 44, 0.7)
+<<<<<<< HEAD
 
         ),url(https://drive.google.com/file/d/10WBjc9U7urFneeIsBIdry0N2gfWiGnud/view?usp=drive_link);
+=======
+        ),url(https://github.com/ABHIRAM3046/Portfolio/blob/5c74fdd8e0ba13755167dcc6bfa0f98be86fd32f/background.jpg);
+>>>>>>> 589b7a67beb658ebd50fd9d6b7aa6bcb54192cb6
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
