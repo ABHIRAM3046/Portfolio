@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: black;
+}
+body{
+    background-image:linear-gradient(
+        115deg,
+        rgba(243, 243, 250, 0.8),
+        rgba(67, 120, 44, 0.7)
+        ),url(/Freecodecamp/Resume/6535.removed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+li{
+    font-size: 18px;
+}
+p{
+    font-size: 18px;
+}
+a {
+    color: black;
+}
+  
+a:visited {
+    color: black;
+}
+  
+a:hover {
+    color: brown;
+}
+  
+a:active {
+    color: brown;
+}
